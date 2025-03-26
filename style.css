@@ -31,9 +31,12 @@ img {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
     border-radius: 10px;
-    background-color
     border-width: 10px;
     border-color: black;
     text-align: center;
     border-style: solid;
+}
+
+.steps {
+    list-style: decimal;
 }
